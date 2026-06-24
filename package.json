@@ -1,0 +1,14 @@
+{
+  "name": "init-sudoku2t",
+  "private": true,
+  "workspaces": [
+    "packages/contracts",
+    "packages/backend",
+    "packages/frontend",
+    "packages/contracts"
+  ],
+  "scripts": {
+    "build": "tsc -b",
+    "test": "echo \"Define per-package tests\" && exit 0"
+  }
+}
