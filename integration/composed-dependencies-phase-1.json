@@ -1,0 +1,11 @@
+{
+  "phaseNumber": 1,
+  "resolvedDependencies": {
+    "@init-sudoku2t/contracts": "*"
+  },
+  "declaredBy": [
+    "packages/backend",
+    "packages/contracts",
+    "packages/frontend"
+  ]
+}
